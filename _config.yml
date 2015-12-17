@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.16653614299540243
+  lightness: 0.04532686728755153
+  rhythmicContrast: 0.7596469256609621
+  saturation: 0.8232964154153689
+cta: {}
+layout_spectrum: 0.1256871292011168
+name: Origin Rewind
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.11082300990858085
